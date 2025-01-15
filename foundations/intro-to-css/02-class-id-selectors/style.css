@@ -1,0 +1,19 @@
+p{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#dos{
+    color: blue;
+    font-size: 36px;
+}
+
+#tres{
+    font-size: 24px;
+}
+
+#quatro{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
