@@ -24,3 +24,45 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
+
+
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.header, .footer{
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer{
+  background-color: #eeeeee;
+}
+
+ul{
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  margin: 15px;
+  gap: 15px;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(83, 82, 82);
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+
+button{
+  padding: 10px;
+}
